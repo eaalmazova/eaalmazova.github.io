@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>report | Academic</title>
+    <link>https://example.com/en/category/report/</link>
+      <atom:link href="https://example.com/en/category/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>report</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 14:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>report</title>
+      <link>https://example.com/en/category/report/</link>
+    </image>
+    
+    <item>
+      <title>Report Decoration</title>
+      <link>https://example.com/en/post/report-decoration/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/report-decoration/</guid>
+      <description>&lt;h2 id=&#34;report-structure&#34;&gt;Report structure&lt;/h2&gt;
+&lt;p&gt;According to GOST 7.32-2001, any research work must contain the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;essay;&lt;/li&gt;
+&lt;li&gt;introduction;&lt;/li&gt;
+&lt;li&gt;the main part;&lt;/li&gt;
+&lt;li&gt;conclusion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GOST also recommends that the following elements be included in the work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;list of performers;&lt;/li&gt;
+&lt;li&gt;content;&lt;/li&gt;
+&lt;li&gt;Normative references;&lt;/li&gt;
+&lt;li&gt;definitions;&lt;/li&gt;
+&lt;li&gt;designations and abbreviations;&lt;/li&gt;
+&lt;li&gt;list of sources used;&lt;/li&gt;
+&lt;li&gt;applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contents-of-report-elements&#34;&gt;Contents of report elements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Title page. The first sheet of work is drawn up strictly according to the model, which is usually given in teaching aids for your subject. It not only requires specifying such elements as the name of the educational institution, type of work and information about the performer, but also arrange them in strict accordance with the standards.&lt;/li&gt;
+&lt;li&gt;Abstract. The abstract is actually a summary of your entire report and contains a number of statistical information. It must indicate the number of parts, pages of work, illustrations, applications, tables, used literary sources and applications. Here is a list of key words of the work and the actual text of the abstract. The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation.&lt;/li&gt;
+&lt;li&gt;Introduction. In the introduction of a typical laboratory work, the goals of the research being conducted and the tasks that will help achieve the goals are usually prescribed. In some cases, a detailed introduction is written with proof of the relevance and novelty of the topic under study. Then in the introduction it will be necessary to give an assessment of the current state of the problem under consideration and justify the need to solve it.&lt;/li&gt;
+&lt;li&gt;Main part. It is important that this section of the work reflects its essence, describes the methodology and results of the work done. The main part contains the following elements:&lt;/li&gt;
+&lt;li&gt;the purpose of the study;&lt;/li&gt;
+&lt;li&gt;tasks, the implementation of which will help achieve the goals;&lt;/li&gt;
+&lt;li&gt;a workflow that describes the actions performed;&lt;/li&gt;
+&lt;li&gt;other sections provided for by methodological materials on the discipline under study.&lt;/li&gt;
+&lt;li&gt;Conclusion. In this part of the work, it will be necessary to draw conclusions based on the results obtained during the laboratory work. To do this, evaluate how well the tasks have been completed. Complex works may contain other elements, for example, recommendations for further application of the results of the work carried out.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сайт | Academic</title>
+    <link>https://example.com/en/tag/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <atom:link href="https://example.com/en/tag/%D1%81%D0%B0%D0%B8%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Сайт</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 15:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Сайт</title>
+      <link>https://example.com/en/tag/%D1%81%D0%B0%D0%B8%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Personal website</title>
+      <link>https://example.com/en/project/website/</link>
+      <pubDate>Sat, 28 May 2022 15:30:00 +0000</pubDate>
+      <guid>https://example.com/en/project/website/</guid>
+      <description>&lt;p&gt;The purpose of this individual project is the gradual creation and filling of a site that represents me as a researcher.&lt;/p&gt;
+&lt;p&gt;A static site generator is a program that generates a static HTML site from various source files (pictures, templates in different formats, text files, etc.). One of the brightest representatives is Hugo. Hugo is one of the most popular open source static site generators written in the Go language. With its amazing speed and flexibility, Hugo makes website building fun. It is suitable both for creating landing pages, “multi-pages” and for creating more complex products: a blog, a news portal, and even an online store. You can install the framework on almost any modern platform in a few commands.&lt;/p&gt;
+&lt;p&gt;The framework has very good documentation. It is only available in English. The information is very well structured, which allows you to master this technology in a few days. For a better understanding, almost every chapter has a tutorial video from the developers. All this allows you to quickly start creating your own sites.&lt;/p&gt;
+&lt;p&gt;The main content or site content is stored in .md format in the content folder. Content can be articles, news, online store products, and more. The &amp;ldquo;data&amp;rdquo; directory is used to store configuration files that Hugo can use when building a website. You can write these files in YAML, JSON, or TOML format.&lt;/p&gt;
+&lt;p&gt;Hugo has about 200 ready-made themes that are easy to install and use. This greatly speeds up the development process. Themes include not only great design, but also good software solutions. Wowchemy offers a handy template for creating a website for a scientist and not only, you can find out more on their official website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

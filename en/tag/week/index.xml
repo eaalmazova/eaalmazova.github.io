@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>week | Academic</title>
+    <link>https://example.com/en/tag/week/</link>
+      <atom:link href="https://example.com/en/tag/week/index.xml" rel="self" type="application/rss+xml" />
+    <description>week</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 22:20:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>week</title>
+      <link>https://example.com/en/tag/week/</link>
+    </image>
+    
+    <item>
+      <title>16-20 May, 2022.</title>
+      <link>https://example.com/en/post/16-20-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/16-20-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2-6 May, 2022.</title>
+      <link>https://example.com/en/post/2-6-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/2-6-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;The second of May was a holiday because of moving the holiday on the first of May: this day is the International Workers&amp;rsquo; Day. An ordinary study week started on the third of May.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>23-27 May, 2022.</title>
+      <link>https://example.com/en/post/23-27-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/23-27-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>30 May - 03 June, 2022.</title>
+      <link>https://example.com/en/post/30-may-3-june-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/30-may-3-june-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>9-13 May, 2022.</title>
+      <link>https://example.com/en/post/9-13-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/9-13-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;On the ninth of May I celebrated the Victory Day. Due to this holiday the tenth of May was a holiday too. An ordinary study week started on the 11 of May.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

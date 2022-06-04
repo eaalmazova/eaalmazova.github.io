@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown | Academic</title>
+    <link>https://example.com/en/category/markdown/</link>
+      <atom:link href="https://example.com/en/category/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>markdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 14:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>markdown</title>
+      <link>https://example.com/en/category/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Markup language Markdown</title>
+      <link>https://example.com/en/post/markup-language-markdown/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/markup-language-markdown/</guid>
+      <description>&lt;h2 id=&#34;basic-information&#34;&gt;Basic information&lt;/h2&gt;
+&lt;p&gt;Markdown is a human-readable markup language that converts transparently to HTML. It can be opened and modified in any text editor. Widely used for writing documentation and README files. You may see Markdown in .md or .markdown files. Although Markdown is reasonably readable in its original form, it is often translated into HTML.&lt;/p&gt;
+&lt;h2 id=&#34;using-the-markdown-language&#34;&gt;Using the Markdown language&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A paragraph is one or more consecutive lines of text separated by one or more empty lines. If a line contains only spaces or tabs, then it is still considered empty. Lines running in a row will be glued into one, if you do not add a hard transfer. There are several ways to do this: add two (or more) spaces at the end of the line &lt;space&gt;&lt;space&gt;, add a backslash at the end of the line , add an HTML line break tag &lt;br&gt;;&lt;/li&gt;
+&lt;li&gt;To create a header, use the # sign;&lt;/li&gt;
+&lt;li&gt;To make text bold, enclose it in double asterisks, italic in single asterisks, bold and italic in triple asterisks;&lt;/li&gt;
+&lt;li&gt;Citation blocks are created using the &amp;gt; symbol;&lt;/li&gt;
+&lt;li&gt;An unordered list is created using dashes or asterisks, and a numbered list is created using numbers. Nested lists are indented;&lt;/li&gt;
+&lt;li&gt;The Markdown syntax for an embedded link consists of a [link text] part representing the text of the hyperlink, and a (file-name.md) part representing the URL or file name to which the link is given;&lt;/li&gt;
+&lt;li&gt;Markdown supports both embedding code snippets in a sentence, and placing them between sentences as separate fenced blocks. Guarded code blocks are an easy way to highlight syntax for code snippets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>languages | Academic</title>
+    <link>https://example.com/en/tag/languages/</link>
+      <atom:link href="https://example.com/en/tag/languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>languages</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 14:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>languages</title>
+      <link>https://example.com/en/tag/languages/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://example.com/en/post/scientific-programming-languages/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming&#34;&gt;Scientific programming&lt;/h2&gt;
+&lt;p&gt;Initially, programming was intended to solve precisely scientific and engineering problems. But with the development of computer technology, the tasks that were solved with the help of computers became much wider. At present, office programming, computer game programming, search engines, computer graphics, databases are far from the full range of tasks that can be solved on computers. The programming of these and many other problems differs significantly from the programming of scientific calculations. Therefore, it makes sense to single out scientific programming as a separate style of programming.&lt;/p&gt;
+&lt;p&gt;What does scientific programming mean? First of all, scientific programming should be focused on the efficient and correct solution of the problem. It can be argued that these requirements apply to all software. However, the issue is the priority of the criteria. Let&amp;rsquo;s say, if the office program will work not 0.25 seconds, but 1 second to process the operation, then this is not as critical as, say, the calculation is carried out within a week or a month. The same goes for the correctness of program execution. It&amp;rsquo;s one thing when a computer game &amp;ldquo;freezes&amp;rdquo;, and it&amp;rsquo;s quite another thing if there is an error in the course of calculations that will lead to incorrect conclusions or technological disasters.&lt;/p&gt;
+&lt;p&gt;Here are some points that should be kept in mind when starting to program scientific problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Separation of the scientific part from the interface. We urge you to adhere to the rule: one program performs a numerical calculation, saving the results of the calculation, and another program visualizes the received data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimization of program texts. Very often, a small change in the text of the program can dramatically increase the speed of calculations. The optimizing compiler is not omnipotent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do not use external routines and libraries. Except in special cases, try to program the algorithms you use yourself. Firstly, it will give an exhaustive understanding of the numerical method itself, and, secondly, by implementing &amp;ldquo;for yourself&amp;rdquo; you can achieve the best result.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sacrifice versatility for efficiency. Universality is one of the most beloved achievements of programming, but for scientific programming, the construction of universal software systems is not always justified.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use modern compilers. Not everything can be optimized &amp;ldquo;by hand&amp;rdquo; - modern optimizing compilers can seriously increase the speed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s discuss the issue of choosing a programming language. We systematically use the C# language in our course. For a long time Fortran has been the language for scientific calculations. Indeed, this language has many advantages, but even more disadvantages. Such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The language of the old generation. This language was developed at the dawn of the computer age, so many important programming technologies such as modularity, type checking, etc. are not implemented in it. Which leads to errors and difficulties in programming.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Many libraries of routines are already obsolete. Progress in the computer field is extremely fast. Therefore libraries developed for obsolete computers may be useless.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lack of mobility. Despite the existing language standards, specific implementations of this language differ significantly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The choice of the C# language is motivated by the following factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Modern language. Programming is an area where progress is very fast. On the one hand, the C# language incorporates the best features of the C++ and Java languages, and on the other hand, it was created without the need to maintain compatibility with previous versions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The power of the .NET platform. C# is the primary language of the .NET platform, so when you&amp;rsquo;re programming in C#, you&amp;rsquo;re also programming in .NET, which provides you with powerful, well-designed classes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The effectiveness of the language. Oddly enough, programs written in C# that run on .NET are very efficient applications. However, when developing complex programs, one should take into account not only the speed of program execution, but also the speed of program development, as well as the complexity of further modification. In this parameter, the C# language is significantly superior to the classic C++ language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

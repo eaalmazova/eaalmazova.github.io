@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post | Academic</title>
+    <link>https://example.com/en/tag/post/</link>
+      <atom:link href="https://example.com/en/tag/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>post</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 14:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post</title>
+      <link>https://example.com/en/tag/post/</link>
+    </image>
+    
+    <item>
+      <title>Markup language Markdown</title>
+      <link>https://example.com/en/post/markup-language-markdown/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/markup-language-markdown/</guid>
+      <description>&lt;h2 id=&#34;basic-information&#34;&gt;Basic information&lt;/h2&gt;
+&lt;p&gt;Markdown is a human-readable markup language that converts transparently to HTML. It can be opened and modified in any text editor. Widely used for writing documentation and README files. You may see Markdown in .md or .markdown files. Although Markdown is reasonably readable in its original form, it is often translated into HTML.&lt;/p&gt;
+&lt;h2 id=&#34;using-the-markdown-language&#34;&gt;Using the Markdown language&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A paragraph is one or more consecutive lines of text separated by one or more empty lines. If a line contains only spaces or tabs, then it is still considered empty. Lines running in a row will be glued into one, if you do not add a hard transfer. There are several ways to do this: add two (or more) spaces at the end of the line &lt;space&gt;&lt;space&gt;, add a backslash at the end of the line , add an HTML line break tag &lt;br&gt;;&lt;/li&gt;
+&lt;li&gt;To create a header, use the # sign;&lt;/li&gt;
+&lt;li&gt;To make text bold, enclose it in double asterisks, italic in single asterisks, bold and italic in triple asterisks;&lt;/li&gt;
+&lt;li&gt;Citation blocks are created using the &amp;gt; symbol;&lt;/li&gt;
+&lt;li&gt;An unordered list is created using dashes or asterisks, and a numbered list is created using numbers. Nested lists are indented;&lt;/li&gt;
+&lt;li&gt;The Markdown syntax for an embedded link consists of a [link text] part representing the text of the hyperlink, and a (file-name.md) part representing the URL or file name to which the link is given;&lt;/li&gt;
+&lt;li&gt;Markdown supports both embedding code snippets in a sentence, and placing them between sentences as separate fenced blocks. Guarded code blocks are an easy way to highlight syntax for code snippets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Decoration</title>
+      <link>https://example.com/en/post/report-decoration/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/report-decoration/</guid>
+      <description>&lt;h2 id=&#34;report-structure&#34;&gt;Report structure&lt;/h2&gt;
+&lt;p&gt;According to GOST 7.32-2001, any research work must contain the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;essay;&lt;/li&gt;
+&lt;li&gt;introduction;&lt;/li&gt;
+&lt;li&gt;the main part;&lt;/li&gt;
+&lt;li&gt;conclusion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GOST also recommends that the following elements be included in the work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;list of performers;&lt;/li&gt;
+&lt;li&gt;content;&lt;/li&gt;
+&lt;li&gt;Normative references;&lt;/li&gt;
+&lt;li&gt;definitions;&lt;/li&gt;
+&lt;li&gt;designations and abbreviations;&lt;/li&gt;
+&lt;li&gt;list of sources used;&lt;/li&gt;
+&lt;li&gt;applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contents-of-report-elements&#34;&gt;Contents of report elements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Title page. The first sheet of work is drawn up strictly according to the model, which is usually given in teaching aids for your subject. It not only requires specifying such elements as the name of the educational institution, type of work and information about the performer, but also arrange them in strict accordance with the standards.&lt;/li&gt;
+&lt;li&gt;Abstract. The abstract is actually a summary of your entire report and contains a number of statistical information. It must indicate the number of parts, pages of work, illustrations, applications, tables, used literary sources and applications. Here is a list of key words of the work and the actual text of the abstract. The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation.&lt;/li&gt;
+&lt;li&gt;Introduction. In the introduction of a typical laboratory work, the goals of the research being conducted and the tasks that will help achieve the goals are usually prescribed. In some cases, a detailed introduction is written with proof of the relevance and novelty of the topic under study. Then in the introduction it will be necessary to give an assessment of the current state of the problem under consideration and justify the need to solve it.&lt;/li&gt;
+&lt;li&gt;Main part. It is important that this section of the work reflects its essence, describes the methodology and results of the work done. The main part contains the following elements:&lt;/li&gt;
+&lt;li&gt;the purpose of the study;&lt;/li&gt;
+&lt;li&gt;tasks, the implementation of which will help achieve the goals;&lt;/li&gt;
+&lt;li&gt;a workflow that describes the actions performed;&lt;/li&gt;
+&lt;li&gt;other sections provided for by methodological materials on the discipline under study.&lt;/li&gt;
+&lt;li&gt;Conclusion. In this part of the work, it will be necessary to draw conclusions based on the results obtained during the laboratory work. To do this, evaluate how well the tasks have been completed. Complex works may contain other elements, for example, recommendations for further application of the results of the work carried out.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://example.com/en/post/scientific-programming-languages/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming&#34;&gt;Scientific programming&lt;/h2&gt;
+&lt;p&gt;Initially, programming was intended to solve precisely scientific and engineering problems. But with the development of computer technology, the tasks that were solved with the help of computers became much wider. At present, office programming, computer game programming, search engines, computer graphics, databases are far from the full range of tasks that can be solved on computers. The programming of these and many other problems differs significantly from the programming of scientific calculations. Therefore, it makes sense to single out scientific programming as a separate style of programming.&lt;/p&gt;
+&lt;p&gt;What does scientific programming mean? First of all, scientific programming should be focused on the efficient and correct solution of the problem. It can be argued that these requirements apply to all software. However, the issue is the priority of the criteria. Let&amp;rsquo;s say, if the office program will work not 0.25 seconds, but 1 second to process the operation, then this is not as critical as, say, the calculation is carried out within a week or a month. The same goes for the correctness of program execution. It&amp;rsquo;s one thing when a computer game &amp;ldquo;freezes&amp;rdquo;, and it&amp;rsquo;s quite another thing if there is an error in the course of calculations that will lead to incorrect conclusions or technological disasters.&lt;/p&gt;
+&lt;p&gt;Here are some points that should be kept in mind when starting to program scientific problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Separation of the scientific part from the interface. We urge you to adhere to the rule: one program performs a numerical calculation, saving the results of the calculation, and another program visualizes the received data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimization of program texts. Very often, a small change in the text of the program can dramatically increase the speed of calculations. The optimizing compiler is not omnipotent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do not use external routines and libraries. Except in special cases, try to program the algorithms you use yourself. Firstly, it will give an exhaustive understanding of the numerical method itself, and, secondly, by implementing &amp;ldquo;for yourself&amp;rdquo; you can achieve the best result.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sacrifice versatility for efficiency. Universality is one of the most beloved achievements of programming, but for scientific programming, the construction of universal software systems is not always justified.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use modern compilers. Not everything can be optimized &amp;ldquo;by hand&amp;rdquo; - modern optimizing compilers can seriously increase the speed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s discuss the issue of choosing a programming language. We systematically use the C# language in our course. For a long time Fortran has been the language for scientific calculations. Indeed, this language has many advantages, but even more disadvantages. Such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The language of the old generation. This language was developed at the dawn of the computer age, so many important programming technologies such as modularity, type checking, etc. are not implemented in it. Which leads to errors and difficulties in programming.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Many libraries of routines are already obsolete. Progress in the computer field is extremely fast. Therefore libraries developed for obsolete computers may be useless.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lack of mobility. Despite the existing language standards, specific implementations of this language differ significantly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The choice of the C# language is motivated by the following factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Modern language. Programming is an area where progress is very fast. On the one hand, the C# language incorporates the best features of the C++ and Java languages, and on the other hand, it was created without the need to maintain compatibility with previous versions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The power of the .NET platform. C# is the primary language of the .NET platform, so when you&amp;rsquo;re programming in C#, you&amp;rsquo;re also programming in .NET, which provides you with powerful, well-designed classes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The effectiveness of the language. Oddly enough, programs written in C# that run on .NET are very efficient applications. However, when developing complex programs, one should take into account not only the speed of program execution, but also the speed of program development, as well as the complexity of further modification. In this parameter, the C# language is significantly superior to the classic C++ language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control. Git</title>
+      <link>https://example.com/en/post/version-control.-git/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/version-control.-git/</guid>
+      <description>&lt;h2 id=&#34;version-control-systems&#34;&gt;Version control systems&lt;/h2&gt;
+&lt;p&gt;Revision control systems are software that facilitates the management of changing information and is often used when multiple people are working on the same project. They allow you to commit changes to files and who made them, track and resolve conflicts that arise: rollback, combine changes made by different contributors, lock files for changes, and manually select a file version. They can also have additional features, such as support for working with multiple versions by maintaining a common change history up to the branch point, and each branch&amp;rsquo;s own history.
+Typically, the main project tree is stored in a local or remote repository that is configured to be shared with project members. In classical systems, a centralized model is used, i.e. files are stored in a single repository. Most version control functions are performed by a dedicated server. Before starting work, the user receives the required version of the files using commands. After making the changes, it commits the new version to the repository. At the same time, previous versions will not be deleted, you can return to them at any time. The server can also save not the full version of the modified files, but perform delta compression, i.e. save only changes between successive versions, reducing the amount of data stored. In distributed systems, a central repository is optional.&lt;/p&gt;
+&lt;h2 id=&#34;tasks-solved-by-vcs&#34;&gt;Tasks solved by VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring team and distributed work on the project without special tools, providing the ability to change files without interfering with the work of other users;&lt;/li&gt;
+&lt;li&gt;Preservation of the source code, storage of all previous versions or, to reduce the volume, changes between successive versions;&lt;/li&gt;
+&lt;li&gt;Keeping a log of changes: which of the participants, when and what changes were made, and access to it can be limited;&lt;/li&gt;
+&lt;li&gt;Tracking and resolving conflicts that arise when several people work on one project;&lt;/li&gt;
+&lt;li&gt;Automatic or manual association (combination) of changes;&lt;/li&gt;
+&lt;li&gt;Manual selection of the desired version;&lt;/li&gt;
+&lt;li&gt;Rollback changes;&lt;/li&gt;
+&lt;li&gt;Customizable blocking of files for modification, granting privileged access to only one user working with the file;&lt;/li&gt;
+&lt;li&gt;Support for working with multiple versions of the same file, keeping a common history of changes up to the branching point of the versions, and own changes for each branch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Creation of the main repository tree - git init;&lt;/li&gt;
+&lt;li&gt;Getting updates of the current tree from the central repository - git pull;&lt;/li&gt;
+&lt;li&gt;Sending the changes made to the local tree to the central repository - git push;&lt;/li&gt;
+&lt;li&gt;View the list of changed files in the current directory - git status;&lt;/li&gt;
+&lt;li&gt;View current changes - git diff;&lt;/li&gt;
+&lt;li&gt;Saving current changes - git add . (all changes) / git add [filenames] (some changes);&lt;/li&gt;
+&lt;li&gt;Removal from the repository index - git rm [filenames];&lt;/li&gt;
+&lt;li&gt;Saving the added changes - git commit -am &amp;lsquo;Comment&amp;rsquo; / git commit (the comment will be made through the built-in editor);&lt;/li&gt;
+&lt;li&gt;Create a new branch based on the current one - git checkout -b [branch name];&lt;/li&gt;
+&lt;li&gt;Switching to some branch - git checkout [branch name];&lt;/li&gt;
+&lt;li&gt;Sending changes to a specific branch to the central repository - git push origin [branch name];&lt;/li&gt;
+&lt;li&gt;Merging a branch with the current tree - git merge -no-ff [branch name];&lt;/li&gt;
+&lt;li&gt;Deleting a branch - git branch -d [branch name] (deleting a local branch already merged into the main tree) / git branch -D [branch name] (forced deletion of a local branch) / git push origin: [branch name] (deleted a branch from the central repository);&lt;/li&gt;
+&lt;li&gt;Checking which branch the user is on - git branch;&lt;/li&gt;
+&lt;li&gt;Completion of work on the branch - git flow &lt;branch&gt; finish;&lt;/li&gt;
+&lt;li&gt;Initialization of the git-flow structure in the repository - git flow init;&lt;/li&gt;
+&lt;li&gt;Creation of a feature branch - git flow feature start feature_branch;&lt;/li&gt;
+&lt;li&gt;End of work with a feature branch - git flow feature finish feature_branch;&lt;/li&gt;
+&lt;li&gt;Creating a release branch - git flow release start 1.0.0;&lt;/li&gt;
+&lt;li&gt;End of work with the release branch - git flow release finish 1.0.0;&lt;/li&gt;
+&lt;li&gt;Creating a hotfix branch - git flow hotfix start hotfix_branch;&lt;/li&gt;
+&lt;li&gt;Finish hotfix branch - git flow hotfix finish hotfix_branch.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>16-20 May, 2022.</title>
+      <link>https://example.com/en/post/16-20-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/16-20-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2-6 May, 2022.</title>
+      <link>https://example.com/en/post/2-6-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/2-6-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;The second of May was a holiday because of moving the holiday on the first of May: this day is the International Workers&amp;rsquo; Day. An ordinary study week started on the third of May.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>23-27 May, 2022.</title>
+      <link>https://example.com/en/post/23-27-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/23-27-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>30 May - 03 June, 2022.</title>
+      <link>https://example.com/en/post/30-may-3-june-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/30-may-3-june-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;This study week has passed as always. My group had classes of mathematical logic, calculus, operation systems, physical education and english language according to the schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>9-13 May, 2022.</title>
+      <link>https://example.com/en/post/9-13-may-2022/</link>
+      <pubDate>Fri, 06 May 2022 22:20:00 +0000</pubDate>
+      <guid>https://example.com/en/post/9-13-may-2022/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;On the ninth of May I celebrated the Victory Day. Due to this holiday the tenth of May was a holiday too. An ordinary study week started on the 11 of May.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

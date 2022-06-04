@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git | Academic</title>
+    <link>https://example.com/en/category/git/</link>
+      <atom:link href="https://example.com/en/category/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>git</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 14:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>git</title>
+      <link>https://example.com/en/category/git/</link>
+    </image>
+    
+    <item>
+      <title>Version Control. Git</title>
+      <link>https://example.com/en/post/version-control.-git/</link>
+      <pubDate>Sat, 21 May 2022 14:40:00 +0000</pubDate>
+      <guid>https://example.com/en/post/version-control.-git/</guid>
+      <description>&lt;h2 id=&#34;version-control-systems&#34;&gt;Version control systems&lt;/h2&gt;
+&lt;p&gt;Revision control systems are software that facilitates the management of changing information and is often used when multiple people are working on the same project. They allow you to commit changes to files and who made them, track and resolve conflicts that arise: rollback, combine changes made by different contributors, lock files for changes, and manually select a file version. They can also have additional features, such as support for working with multiple versions by maintaining a common change history up to the branch point, and each branch&amp;rsquo;s own history.
+Typically, the main project tree is stored in a local or remote repository that is configured to be shared with project members. In classical systems, a centralized model is used, i.e. files are stored in a single repository. Most version control functions are performed by a dedicated server. Before starting work, the user receives the required version of the files using commands. After making the changes, it commits the new version to the repository. At the same time, previous versions will not be deleted, you can return to them at any time. The server can also save not the full version of the modified files, but perform delta compression, i.e. save only changes between successive versions, reducing the amount of data stored. In distributed systems, a central repository is optional.&lt;/p&gt;
+&lt;h2 id=&#34;tasks-solved-by-vcs&#34;&gt;Tasks solved by VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring team and distributed work on the project without special tools, providing the ability to change files without interfering with the work of other users;&lt;/li&gt;
+&lt;li&gt;Preservation of the source code, storage of all previous versions or, to reduce the volume, changes between successive versions;&lt;/li&gt;
+&lt;li&gt;Keeping a log of changes: which of the participants, when and what changes were made, and access to it can be limited;&lt;/li&gt;
+&lt;li&gt;Tracking and resolving conflicts that arise when several people work on one project;&lt;/li&gt;
+&lt;li&gt;Automatic or manual association (combination) of changes;&lt;/li&gt;
+&lt;li&gt;Manual selection of the desired version;&lt;/li&gt;
+&lt;li&gt;Rollback changes;&lt;/li&gt;
+&lt;li&gt;Customizable blocking of files for modification, granting privileged access to only one user working with the file;&lt;/li&gt;
+&lt;li&gt;Support for working with multiple versions of the same file, keeping a common history of changes up to the branching point of the versions, and own changes for each branch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Creation of the main repository tree - git init;&lt;/li&gt;
+&lt;li&gt;Getting updates of the current tree from the central repository - git pull;&lt;/li&gt;
+&lt;li&gt;Sending the changes made to the local tree to the central repository - git push;&lt;/li&gt;
+&lt;li&gt;View the list of changed files in the current directory - git status;&lt;/li&gt;
+&lt;li&gt;View current changes - git diff;&lt;/li&gt;
+&lt;li&gt;Saving current changes - git add . (all changes) / git add [filenames] (some changes);&lt;/li&gt;
+&lt;li&gt;Removal from the repository index - git rm [filenames];&lt;/li&gt;
+&lt;li&gt;Saving the added changes - git commit -am &amp;lsquo;Comment&amp;rsquo; / git commit (the comment will be made through the built-in editor);&lt;/li&gt;
+&lt;li&gt;Create a new branch based on the current one - git checkout -b [branch name];&lt;/li&gt;
+&lt;li&gt;Switching to some branch - git checkout [branch name];&lt;/li&gt;
+&lt;li&gt;Sending changes to a specific branch to the central repository - git push origin [branch name];&lt;/li&gt;
+&lt;li&gt;Merging a branch with the current tree - git merge -no-ff [branch name];&lt;/li&gt;
+&lt;li&gt;Deleting a branch - git branch -d [branch name] (deleting a local branch already merged into the main tree) / git branch -D [branch name] (forced deletion of a local branch) / git push origin: [branch name] (deleted a branch from the central repository);&lt;/li&gt;
+&lt;li&gt;Checking which branch the user is on - git branch;&lt;/li&gt;
+&lt;li&gt;Completion of work on the branch - git flow &lt;branch&gt; finish;&lt;/li&gt;
+&lt;li&gt;Initialization of the git-flow structure in the repository - git flow init;&lt;/li&gt;
+&lt;li&gt;Creation of a feature branch - git flow feature start feature_branch;&lt;/li&gt;
+&lt;li&gt;End of work with a feature branch - git flow feature finish feature_branch;&lt;/li&gt;
+&lt;li&gt;Creating a release branch - git flow release start 1.0.0;&lt;/li&gt;
+&lt;li&gt;End of work with the release branch - git flow release finish 1.0.0;&lt;/li&gt;
+&lt;li&gt;Creating a hotfix branch - git flow hotfix start hotfix_branch;&lt;/li&gt;
+&lt;li&gt;Finish hotfix branch - git flow hotfix finish hotfix_branch.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
